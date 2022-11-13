@@ -1,0 +1,25 @@
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+.navbar-nav .nav-link:hover{
+  color: green !important;
+}
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.all_blogs_text{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 150px;
+  margin-left: 100px;
+}
+.blogs_text{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
